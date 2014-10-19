@@ -1,0 +1,32 @@
+{
+  "name": "trace-func",
+  "version": "0.0.1",
+  "description": "arbitrary function tracing",
+  "main": "trace-func.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "dtrace-provider": "~0.3.0",
+    "falafel": "~0.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tjfontaine/node-trace-func"
+  },
+  "keywords": [
+    "dtrace",
+    "tracing",
+    "function"
+  ],
+  "author": "Timothy J Fontaine <tjfontaine@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjfontaine/node-trace-func/issues"
+  },
+  "homepage": "https://github.com/tjfontaine/node-trace-func"
+}
